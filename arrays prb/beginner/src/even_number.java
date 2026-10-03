@@ -30,7 +30,7 @@ class even_number
 
 	int Solution(int N[],int n)
 	{	int count =0;
-   System.out.print("the numbers are :");
+   System.out.print("the even  numbers are :");
 		for (int j=0; j<n ;j++)
 		{ 	
       
